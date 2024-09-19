@@ -4,8 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a [customer performance report](https://github.com/sukrutha9/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
-
+    **1.** Create a [customer performance report]
     **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/sukrutha9/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** To monitor and evaluate their sales activities and performance in order to empower business.
@@ -21,7 +20,7 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sukrutha9/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_
-                 & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+                 & _[Months & quaters](https://github.com/Sukrutha9/excel-sales_analysis/blob/main/P%20%26%20L%20%20months%20%26%20quaters.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sukrutha9/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
